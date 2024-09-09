@@ -5,7 +5,7 @@ const choices = document.querySelectorAll(".choice");
 
 const msg = document.querySelector("#msg");
 
-const userScorepara = document.querySelector("#user-score");
+const userScorepara = document.querySelector("#user-scor");
 
 const compScorepara = document.querySelector("#comp-score");
 
